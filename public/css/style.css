@@ -1,0 +1,14 @@
+.list{
+    list-style: none;
+}
+
+#profile {
+  max-width: 30px;
+  /* margin-right: 3px; */
+  border-radius: 50%;
+}
+
+img:hover {
+  box-shadow: 0 0 2px 1px rgba(255, 255, 255, 0.925);
+}
+  
